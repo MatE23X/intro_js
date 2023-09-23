@@ -13,5 +13,5 @@ function tellAge(rAge){
     alert("Your name is" + " " + rName + " and your are " + rAge + " years old.")
 }
 
-tellAge(21)
+console.log(tellAge(21));
 
